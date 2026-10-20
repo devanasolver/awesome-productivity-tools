@@ -1,6 +1,7 @@
 # Changelog
 
 ## Unreleased
+- Add Glim, a free macOS document and data viewer, under Documents and collaboration.
 
 ## 2026-10-18
 

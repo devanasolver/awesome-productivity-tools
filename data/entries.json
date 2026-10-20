@@ -430,5 +430,13 @@
     "license": "MIT",
     "verified": "2026-10-18",
     "last_commit": "2026-10-17"
+  },
+  {
+    "repo": "NeoPanic/Glim",
+    "category": "docs",
+    "description": "macOS viewer for Markdown, PDFs, ebooks and data files, with basic UTF-8 editing (by the author).",
+    "license": "MIT",
+    "verified": "2026-10-21",
+    "last_commit": "2026-10-20"
   }
 ]
